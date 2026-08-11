@@ -114,9 +114,3 @@ DataScience-Task3-CarPricePrediction/
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-## 🚀 Author
-
-**Dev** – B.Tech CSE Student | Aspiring Data Scientist & ML Engineer
