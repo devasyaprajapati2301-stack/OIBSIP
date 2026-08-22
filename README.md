@@ -18,15 +18,6 @@ Each task focuses on solving a practical problem using real-world datasets and m
 
 Build a machine learning classification model to classify Iris flowers into different species based on their measurements.
 
-### Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
 ### Concepts Learned
 
 - Data preprocessing
@@ -43,13 +34,6 @@ Build a machine learning classification model to classify Iris flowers into diff
 ### Objective
 
 Analyze unemployment trends and identify patterns across different regions and time periods.
-
-### Technologies
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
 
 ### Analysis Performed
 
@@ -76,15 +60,6 @@ Analyze unemployment trends and identify patterns across different regions and t
 ### Objective
 
 Build machine learning models to predict the selling price of used cars based on features such as car age, mileage, fuel type, and other vehicle characteristics.
-
-### Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
 
 ### Models Used
 
@@ -114,14 +89,6 @@ Build machine learning models to predict the selling price of used cars based on
 
 Build a binary classification model that identifies whether a message is **Spam** or **Ham**.
 
-### Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
 
 ### NLP Techniques
 
@@ -146,6 +113,49 @@ Build a binary classification model that identifies whether a message is **Spam*
 ### Best Performing Model
 
 Logistic Regression achieved the strongest overall performance on the test data.
+
+--- 
+
+## Task 5 — Advertising Sales Prediction 📈
+
+### Objective
+
+Build a regression model to predict product sales based on advertising expenditure across different media channels.
+
+### Dataset
+
+The dataset contains advertising spending for:
+
+- TV
+- Radio
+- Newspaper
+
+
+### Analysis Performed
+
+- Data loading and inspection
+- Missing value analysis
+- Exploratory Data Analysis
+- Pair plots
+- Individual scatter plots
+- Correlation analysis
+- Correlation heatmap
+- Advertising expenditure vs. sales analysis
+
+### Machine Learning Models
+
+Two regression models were trained:
+
+- Linear Regression
+- Random Forest Regressor
+
+### Evaluation Metrics
+
+The models were evaluated using:
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
 
 ---
 
